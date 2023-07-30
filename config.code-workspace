@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../kibana-7.7.0-windows-x86_64/config"
+		},
+		{
+			"path": "../../hm12"
+		},
+		{
+			"path": "../../../../kibana-7.7.0-windows-x86_64/config/MS-Teams-background-changer-main"
+		}
+	],
+	"settings": {}
+}
